@@ -10,6 +10,7 @@ namespace Movies.Data
         Action=1,
         Comedy,
         Drama,
-        Horror
+        Horror,
+        Thriller
     }
 }
